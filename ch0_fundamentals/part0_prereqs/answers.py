@@ -3,7 +3,8 @@
 # Paste the page's setup code into the first cell, then work through the exercises cell by cell.
 # Run a cell with the "Run Cell" link above each `# %%`, or select lines and press Shift+Enter.
 
-# %%import os
+# %%
+import os
 import sys
 from pathlib import Path
 
